@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Trade Center",
+		"name": "Tobacco Trade Center",
 		"cost": 800,
-		"maintenance": 20,
+		"maintenance": 30,
 		"hurryCostModifier": 20,
 		"requiredTech": "Guilds",
-		"uniques": ["Instantly consumes [30] [Gold] <if [Trade Center] is constructed>", "Instantly provides [1] random [StockpiledResource] <if [Trade Center] is constructed>"]
+		"uniques": ["Instantly provides [1] Tobacco <in cities with a [Trade Center]>", "Pillaging this improvement yields approximately [+15 Gold, -2 Production]"]
 	}
 ]
