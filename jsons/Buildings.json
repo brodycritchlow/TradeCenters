@@ -5,6 +5,6 @@
 		"maintenance": 30,
 		"hurryCostModifier": 20,
 		"requiredTech": "Guilds",
-		"uniques": ["Instantly provides [1] Tobacco <in cities with a [Trade Center]>", "Pillaging this improvement yields approximately [+15 Gold, -2 Production]"]
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City", "Pillaging this improvement yields approximately [+15 Gold, -2 Production]"]
 	}
 ]
