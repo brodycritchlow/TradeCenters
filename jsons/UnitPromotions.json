@@ -2,40 +2,30 @@
   {
 	"name": "Better Negotiation I",
 	"uniques": ["Gain [30] [Gold]"],
-	"unitTypes": ["Diplomat"],
-        "column": 1,
-        "row": 1
+	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation II",
 "prerequisites": ["Better Negotiation I"],
 	"uniques": ["Gain [60] [Gold]"],
-	"unitTypes": ["Diplomat"],
-        "column": 2,
-        "row": 1
+	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation III",
 "prerequisites": ["Better Negotiation II"],
 	"uniques": ["Gain [90] [Gold]"],
-	"unitTypes": ["Diplomat"],
-        "column": 3,
-        "row": 1
+	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation IV",
 "prerequisites": ["Better Negotiation III"],
 	"uniques": ["Gain [120] [Gold]"],
-	"unitTypes": ["Diplomat"],
-        "column": 4,
-        "row": 1
+	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation V",
 "prerequisites": ["Better Negotiation IV"],
 	"uniques": ["Gain [150] [Gold]"],
-	"unitTypes": ["Diplomat"],
-        "column": 5,
-        "row": 1
+	"unitTypes": ["Diplomat"]
   }
 ]
