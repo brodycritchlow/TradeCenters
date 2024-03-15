@@ -6,7 +6,7 @@
 		"movement": 4,
 		"strength": 0,
 		"range": 2,
-		"cost": 500,
+		"cost": 1200,
 		"requiredTech": "Guilds",
 		"requiredResource": "Silver",
 		"promotions": ["Better Negotiation I","Better Negotiation II", "Better Negotiation III", "Better Negotiation IV", "Better Negotiation V"],
