@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Trader",
+		"unitType": "Diplomat",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 0,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Guilds",
+		"requiredResource": "Silver",
+		"promotions": ["Better Negotation I","Better Negotation II", "Better Negotation III", "Better Negotation IV", "Better Negotation V"],
+		"uniques": ["Gain [15] [Gold]"]
 	}
 ]
