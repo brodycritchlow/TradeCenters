@@ -8,8 +8,8 @@
 		"range": 2,
 		"cost": 1200,
 		"requiredTech": "Guilds",
-		"requiredResource": "Silver",
-		"promotions": ["Better Negotiation I","Better Negotiation II", "Better Negotiation III", "Better Negotiation IV", "Better Negotiation V"],
+		"requiredResource": "Horses",
+		"promotions": ["Better Negotiation I","Better Negotiation II", "Better Negotiation III", "Decisions I", "Decisions II", "Decisions III"],
 		"uniques": ["Gain [15] [Gold]"]
 	}
 ]
