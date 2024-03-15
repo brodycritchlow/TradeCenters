@@ -8,6 +8,6 @@
 		"cost": 1500,
 		"requiredTech": "Guilds",
 		"promotions": ["Better Negotiation I","Better Negotiation II", "Better Negotiation III", "Decisions I", "Decisions II", "Decisions III"],
-		"uniques": ["Gain [15] [Gold]"]
+		"uniques": ["Gain [15] [Gold] <upon turn end>"]
 	}
 ]
