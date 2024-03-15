@@ -1,36 +1,36 @@
 [
   {
 	"name": "Better Negotiation I",
-	"uniques": ["Gain [30] [Gold]"],
+	"uniques": ["Gain [30] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation II",
 	"prerequisites": ["Better Negotiation I"],
-	"uniques": ["Gain [60] [Gold]"],
+	"uniques": ["Gain [60] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Better Negotiation III",
 	"prerequisites": ["Better Negotiation II"],
-	"uniques": ["Gain [90] [Gold]"],
+	"uniques": ["Gain [90] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Decisions I",
-	"uniques": ["Gain [10] [Gold]"],
+	"uniques": ["Gain [10] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Decisions II",
 	"prerequisites": ["Decisions I"],
-	"uniques": ["Gain [20] [Gold]"],
+	"uniques": ["Gain [20] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   },
   {
 	"name": "Decisions III",
 	"prerequisites": ["Decisions II"],
-	"uniques": ["Gain [30] [Gold]"],
+	"uniques": ["Gain [30] [Gold] <upon turn end>"],
 	"unitTypes": ["Diplomat"]
   }
 ]
