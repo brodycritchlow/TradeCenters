@@ -9,7 +9,7 @@
 		"cost": 500,
 		"requiredTech": "Guilds",
 		"requiredResource": "Silver",
-		"promotions": ["Better Negotation I","Better Negotation II", "Better Negotation III", "Better Negotation IV", "Better Negotation V"],
+		"promotions": ["Better Negotiation I","Better Negotiation II", "Better Negotiation III", "Better Negotiation IV", "Better Negotiation V"],
 		"uniques": ["Gain [15] [Gold]"]
 	}
 ]
